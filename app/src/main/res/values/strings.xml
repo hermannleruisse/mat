@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mat</string>
+    <string name="favorite">Favories</string>
+    <string name="content_description_favorite">Favories</string>
+    <string name="search">Recherche</string>
+    <string name="content_description_search">Recherche</string>
+    <string name="more">Plus</string>
+    <string name="content_description_more">Plus</string>
+    <string name="article_titre">article titre</string>
+    <string name="article_description">article description</string>
+    <string name="content_description_media">Media</string>
+    <string name="lorem">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum interdum nisl tortor, in mollis ex tincidunt sed. In non dolor sagittis, molestie ligula sit amet, mattis eros. Sed tellus lacus, posuere a nibh non, convallis fringilla nisl. Integer mattis sagittis vehicula. Donec magna ligula, lobortis eu justo sed, malesuada dapibus mauris. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer a enim sed odio finibus auctor. Ut molestie venenatis arcu et hendrerit. Integer tempor risus eu urna pretium ornare. Aliquam rhoncus egestas vulputate. Nunc interdum convallis mattis. Suspendisse cursus metus ante, sed viverra velit viverra id. Nulla feugiat sagittis ipsum ac dictum. Quisque convallis auctor metus, vel pulvinar ante convallis efficitur. Nulla facilisi.
+        Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque non risus vehicula, tincidunt ligula sit amet, blandit augue. Aenean in elementum ex. Maecenas vestibulum lorem vel blandit mollis. Aenean dapibus, velit vitae auctor ullamcorper, eros elit eleifend risus, sit amet iaculis orci purus sed est. Sed auctor nisi erat, et feugiat eros maximus nec. In eleifend, nulla quis varius vestibulum, velit nisl tincidunt turpis, id laoreet neque lectus in ex. Suspendisse id nisl ac elit venenatis porttitor. Cras in faucibus velit. Duis luctus ut sapien commodo ultrices. Integer sed tortor nisi. Maecenas pharetra justo vel laoreet dignissim. Praesent ac mauris leo. Morbi efficitur facilisis enim vel condimentum.
+        Donec imperdiet mollis sem, vel ornare turpis dignissim a. Aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus risus mauris, vulputate eu nisl vitae, tincidunt tristique nisi. Morbi quis dictum sem, eget vehicula massa. Donec vitae malesuada diam, vitae egestas mi. Nunc est nisi, vehicula id odio a, dignissim tincidunt purus. Curabitur vel molestie tortor. Donec commodo ornare arcu, id malesuada lectus tincidunt eu. Mauris interdum, dui vel elementum sollicitudin, nulla justo semper turpis, vitae sollicitudin enim dolor et est.
+        Integer condimentum blandit lorem, at convallis velit malesuada sed. Nulla tempor est nibh, in iaculis risus mollis at. Praesent mattis lectus vel arcu vestibulum, vitae tristique purus dignissim. Cras in egestas nunc, a aliquet nisi. Cras id luctus odio. Nam eget erat ut ligula egestas semper. Aliquam ac fringilla tellus. Mauris ultrices commodo lacus, maximus tristique nunc venenatis rhoncus. Nulla mattis libero non porttitor condimentum. Praesent tincidunt aliquet dui eu euismod. Donec vulputate mauris commodo tellus volutpat cursus eu vitae elit.
+        Donec pulvinar luctus orci, sit amet consectetur risus. Sed volutpat justo felis, quis varius mi consectetur vel. Curabitur ornare blandit enim et fringilla. Etiam id dui sagittis, consequat ipsum varius, vehicula ex. Morbi finibus rhoncus neque ac finibus. Maecenas in gravida massa. Sed hendrerit venenatis euismod. Nullam quis ligula sed orci mollis efficitur. Vivamus lorem sem, tempus sed lorem et, mattis luctus ex. Donec tincidunt ultricies metus, vel faucibus felis vehicula ac
+    </string>
+</resources>
